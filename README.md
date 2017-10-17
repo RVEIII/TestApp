@@ -18,3 +18,5 @@ Expected results:
 
 Actual results:
 - Row 0 is empty.  Row 1 shows a switch view.
+
+![Alt text](IssueScreenshot.png?raw=true "")
