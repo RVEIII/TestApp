@@ -1,0 +1,1 @@
+export { ExtensionTable } from './ExtensionTableBridge';
